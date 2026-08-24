@@ -38,8 +38,8 @@ export default function LoginPage() {
             <div className="w-16 h-16 bg-primary-100 rounded-2xl flex items-center justify-center mx-auto mb-4">
               <Package className="w-8 h-8 text-primary-600" />
             </div>
-            <h1 className="text-2xl font-bold text-gray-900">Inventory System</h1>
-            <p className="text-gray-500 mt-1">Sign in to your admin account</p>
+            <h1 className="text-2xl font-bold text-gray-900">Logbook System</h1>
+            <p className="text-gray-500 mt-1">Sign in your account</p>
           </div>
            
           {/* Error */}
